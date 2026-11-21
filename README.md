@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Manar Maher!
 
-<!--
-**manar307/manar307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | Creative Thinker | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-End Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming creative ideas into functional digital experiences and continuously improving my development skills.
+
+---
+
+### 🚀 About Me
+
+- 💻 Front-End Developer.
+- 🌱 Continuously learning and exploring new technologies.
+- 🎨 Interested in UI/UX Design and modern web interfaces.
+- 🔭 Working on real-world projects and personal applications.
+- 💡 Love solving problems and learning by building.
+- 🎯 Always looking for opportunities to grow and collaborate.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+
+**Design & UI/UX**
+- Figma
+- Responsive Web Design
+- CSS Animations
+
+**Development Tools**
+- Visual Studio Code
+- Git
+- GitHub
+- Chrome DevTools
+
+---
+
+### 📂 Featured Projects
+
+- **RADSAFE** – A project focused on building a user-friendly digital experience.
+- More projects coming soon! 🚀
+
+---
+
+### 📊 GitHub Overview
+
+Always learning. Always building. Always improving.
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: You're already here! 😄
+- LinkedIn: [Add your LinkedIn]
+- Email: [Add your Email]
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Let's build something amazing together.*
